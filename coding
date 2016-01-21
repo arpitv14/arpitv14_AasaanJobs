@@ -76,7 +76,7 @@ e. Show fares and other expenses.
 You are supposed to write code in HTML and JavaScript. Syntax is not a problem, 
 
 your understanding of the problem statement and approach to the same is of primary concern.
-
+-----------------------------------------------------------------------------------------
 3) Closest to zero     20 Marks
 
 This problem is also called minimum absolute sum pair. You are given an array of integers, 
@@ -89,7 +89,7 @@ Note: We want the sum to be closest to zero not minimum. The minimum in the abov
 
 would be (-20, -45), but that is incorrect.
 ----------------------------------------------------------\
-code 2--------------
+code 3--------------
 #include <stdio.h>
 # include <math.h>
 # include <limits.h>
